@@ -5,6 +5,7 @@ This document serves as a structured review of key statistical concepts essentia
 
 ## Log
 - 03/03 - no progress
+- 04/03 - no progress but tomorrow I'll pick up the pace
 
 ## Topics Covered
 
