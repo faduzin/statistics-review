@@ -21,3 +21,8 @@
 - There is no way to absolutely guarantee that you choose a representative, non biased sample.
 - Trust is a value that is never 100 and represents the chances of a representative, non biased sample, being chosen.
 
+### Corrections
+
+- Population is the entire set of individuals or elements under study, defined by specific rules or filters.
+- The metric is not trust but confidence, and a better definition is that confidence is never 100%, as there is always uncertainty in sampling. Confidence levels express the probability that the chosen sample accurately represents the population.
+- Inference is the process of using sample data to draw conclusions about the population.
