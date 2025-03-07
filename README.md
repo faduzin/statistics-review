@@ -6,6 +6,8 @@ This document serves as a structured review of key statistical concepts essentia
 ## Log
 - 03/03 - no progress
 - 04/03 - no progress but tomorrow I'll pick up the pace
+- 05/03 - little progress, but it is a start
+- 06/03 - learned some basic concepts by watching Teo Calvo and reading Naked Statistics
 
 ## Topics Covered
 
