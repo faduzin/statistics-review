@@ -7,6 +7,7 @@
 - 06/03 - learned some basic concepts by watching Teo Calvo and reading Naked Statistics
 - 07/03 - added yesterday notes
 - 08/03 - no progress
+- 09/03 - no progress but this next week will be focused on this project
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
