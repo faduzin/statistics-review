@@ -16,6 +16,7 @@
 - 15/03 - learned about variance and standard deviation
 - 16/03 - read 10 pages of the book naked statistics
 - 17/03 - little progress
+- 18/03 - wrote about standard deviation, mean and median
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
