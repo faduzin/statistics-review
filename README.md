@@ -18,6 +18,7 @@
 - 17/03 - little progress
 - 18/03 - wrote about standard deviation, mean and median
 - 19/03 - no progress
+- 20/03 - reviewed notes
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
@@ -36,6 +37,8 @@ This document serves as a structured review of key statistical concepts essentia
 - **Descriptive statistics** exist to simplify data, but simplification always implies some loss of nuance or detail.
 - Overreliance on any single descriptive statistic can lead to misleading conclusions.
 - Statistics are present in every profession and are applied in various fields, such as research, finance, polling, healthcare, and technology.
+- Most phenomena can be described in multiple ways, and the choice of descriptive statistics profoundly impacts the impression conveyed.
+- Even precise and accurate descriptive statistics can suffer from a fundamental issue: lack of clarity about what exactly is being defined, described, or explained.
 
 ### 2. Populations, Samples, and Statistical Inference
 
@@ -43,6 +46,7 @@ This document serves as a structured review of key statistical concepts essentia
 - **Population**: The entire set of individuals or elements under study, defined by specific rules or filters.
 - **Sample**: A subset of the population selected for analysis.
 - **Inference**: The process of using sample data to draw conclusions about the population.
+- **Unit of analysis**: The entity being studied, compared, or described by statistics.
 
 #### The Importance of Sampling
 - In most cases, studying the entire population is impractical or impossible.
@@ -53,9 +57,24 @@ This document serves as a structured review of key statistical concepts essentia
 #### Parameters vs. Estimators
 - **True Value (Parameter)**: The actual value that describes a characteristic of the population.
 - **Estimated Value (Estimator)**: The value calculated from the sample, which serves as an approximation of the parameter.
+- Precision and accuracy play crucial roles in estimation:
+  - **Precision** is the exactness or detail with which an estimate can be expressed.
+  - **Accuracy** indicates how close an estimate is to the true value.
+  - Precision can mask inaccuracy by giving a false sense of certainty; thus, even precise estimates should be checked against common sense.
 
 #### Trust in Statistical Inference
 - **Confidence (Trust) is never 100%**, as there is always uncertainty in sampling.
 - Confidence levels express the probability that the chosen sample accurately represents the population.
+- Honest motivation is critical because valid data can still be used to support misleading or disputable conclusions if motivation is biased.
 
+### 3. Measures of Central Tendency and Dispersion
 
+#### Central Tendency
+- **Mean** and **median** are both measures of central tendency.
+  - **Mean** is the arithmetic average (the sum of values divided by the number of values).
+  - **Median** is the midpoint of the distribution (the value separating the upper half from the lower half of the data).
+- The discrepancy between mean and median indicates how the data distribution is skewed.
+
+#### Dispersion
+- **Variance** measures how spread out the data points are around the mean. It is calculated as the sum of squared differences between each term and the mean, divided by the number of terms.
+- **Standard deviation** is the square root of variance, reflecting average distance of data points from the mean.
