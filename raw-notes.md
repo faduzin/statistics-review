@@ -26,3 +26,33 @@
 - Population is the entire set of individuals or elements under study, defined by specific rules or filters.
 - The metric is not trust but confidence, and a better definition is that confidence is never 100%, as there is always uncertainty in sampling. Confidence levels express the probability that the chosen sample accurately represents the population.
 - Inference is the process of using sample data to draw conclusions about the population.
+
+## 18/03
+
+- The formula to calculate **variance** is the sum of the squared differences between each term and the mean, divided by the number of terms.
+- The formula for standard deviation is the square root of the **variance**.
+- Most phenomena can be described in multiple ways, and when there are several possible descriptions, the choice of descriptive statistics profoundly impacts the impression conveyed.
+- If the motivation behind presenting data is not honest, perfectly valid facts can still be used to support entirely disputable or illegitimate conclusions.
+- There is a crucial distinction between **precision** and **accuracy**:
+  - **Precision** is the exactness or detail with which we can express something.
+  - **Accuracy** is how close a measurement or result is to the true or correct value.
+- An answer can be precise if it specifies an exact result, yet inaccurate if it does not reflect the true value or points in the wrong direction.
+- An answer can also be accurate (generally correct) but imprecise if it lacks detail or exactness.
+- Precision can mask inaccuracy by giving a false sense of certainty.
+- Even the most precise measurements or calculations should be checked against common sense.
+- Even the most precise and accurate descriptive statistics can suffer from a fundamental issue: the lack of clarity about what exactly is being defined, described, or explained.
+- The **unit of analysis** is the entity being studied, compared, or described by statistics.
+- The **mean** and **median** are both measures of central tendency:
+  - **Mean** is the arithmetic average (the sum of values divided by the number of values).
+  - **Median** is the midpoint of the distribution (the value separating the upper half from the lower half of the data).
+- What does the discrepancy between median and mean indicate about the distribution?
+
+### Corrections made:
+
+- **"Variation"** was replaced with **"variance"**, as it is the accurate statistical term.
+- Corrected the definitions of **precision** and **accuracy** for clarity and accuracy.
+- Clarified the statement **"The same is true if inverted"** by explicitly stating the inverted scenario (accurate but imprecise).
+- Clearly defined **mean** as "arithmetic average".
+- Clearly defined **median** as the midpoint separating the data into two equal halves.
+- Improved grammar, spelling, punctuation, and sentence structure throughout.
+- Reformulated the final question **"What does the discrepancy between median and mean tells?"** to a clearer and grammatically correct version: **"What does the discrepancy between median and mean indicate about the distribution?"**
