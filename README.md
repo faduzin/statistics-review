@@ -21,6 +21,7 @@
 - 20/03 - reviewed notes
 - 21/03 - little progress
 - 22/03 - no progress
+- 23/03 - read 2 chapters
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
