@@ -56,3 +56,15 @@
 - Clearly defined **median** as the midpoint separating the data into two equal halves.
 - Improved grammar, spelling, punctuation, and sentence structure throughout.
 - Reformulated the final question **"What does the discrepancy between median and mean tells?"** to a clearer and grammatically correct version: **"What does the discrepancy between median and mean indicate about the distribution?"**
+
+## 30/03
+
+- Correlation is the relation between two features or attributes
+- It can be positive if both variables grow together or shrink together
+- The maximum value is 1.00 and it means both variables grow exacly the same
+- It can be negative if both variables grow in oposite directions, which means if one grows the other shrinks
+- The minimum value is -1.00 and it means that both variables grow what the other shrink
+- If correlation is 0 or close to 0, it means that there is close to no relation or pattern between the variation of both variables
+- The formula to calculate correlation uses standard deviation and normalization of each attribute, which means that the unit of each attribute does not matter in this comparison
+- Standardize is the process of converting each unit to a standard unit, which goes by subtracting the value of the mean of the attribute annd then dividing the result by the standard deviation of that attribute.
+- The correlation coeficient is the sum of the products calculated divided by n
