@@ -87,3 +87,40 @@ This document serves as a structured review of key statistical concepts essentia
 #### Dispersion
 - **Variance** measures how spread out the data points are around the mean. It is calculated as the sum of squared differences between each term and the mean, divided by the number of terms.
 - **Standard deviation** is the square root of variance, reflecting average distance of data points from the mean.
+
+### 4. Correlation and Regression
+
+#### Correlation
+
+- **Correlation** describes the strength and direction of a linear relationship between two numerical variables (features or attributes).
+- It can be:
+  - **Positive**: Both variables increase or decrease together.
+  - **Negative**: One variable increases while the other decreases.
+- The **correlation coefficient** (typically denoted as *r*) ranges from **-1 to 1**:
+  - **+1.00**: Perfect positive correlation – both variables move together in exactly the same way.
+  - **-1.00**: Perfect negative correlation – one variable increases exactly as the other decreases.
+  - **0**: No linear correlation – there is no predictable linear relationship between the variables.
+
+#### Properties of Correlation
+
+- Correlation is **unitless** because it is based on **standardized values**, meaning the actual units of the variables do not affect the correlation value.
+- To standardize a value:
+  - Subtract the mean of the variable from the value.
+  - Divide the result by the standard deviation.
+  - This converts the value to a **z-score**, or standard unit.
+
+#### Correlation Coefficient Formula
+
+Let \( x \) and \( y \) be two variables with standardized values:
+
+\[
+r = \frac{1}{n} \sum_{i=1}^{n} z_{x_i} \cdot z_{y_i}
+\]
+
+Where:
+- \( z_{x_i} = \frac{x_i - \bar{x}}{s_x} \) (standardized value of \( x \))
+- \( z_{y_i} = \frac{y_i - \bar{y}}{s_y} \) (standardized value of \( y \))
+- \( n \) is the number of observations
+- The result is the **mean product of the paired standardized values**.
+
+
