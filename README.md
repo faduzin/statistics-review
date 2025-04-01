@@ -28,6 +28,7 @@
 - 27/03 - no progress
 - 28/03 - studied some sql and read a little
 - 29/03 - no progress
+- 30/03 - reviewed correlation
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
