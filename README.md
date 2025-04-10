@@ -36,6 +36,7 @@
 - 04/04 - read about the monty hall problem
 - 05/04 - no progress
 - 06/04 - no progress
+- 10/04 - learned about some distributions
 
 ## Introduction
 This document serves as a structured review of key statistical concepts essential for data analysis and data science. Each section will be filled with notes, definitions, examples, and insights as I progress through my studies. The goal is to build a strong foundation in statistics to enhance analytical and problem-solving skills.
